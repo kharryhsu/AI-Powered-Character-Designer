@@ -8,15 +8,33 @@ Users provide a prompt and a style (Realistic, Anime, or Pixel Art), and receive
 
 ## 📸 Screenshots
 
-### Sample Input
+### Sample Input and Output
+
+#### Input
 
 `A brave knight with a mysterious past`, `Realistic`
 
-### Sample Output
+#### Output
 
-#### Character Image (Realistic Style)
+##### Character Image (Realistic Style)
 
-#### Character Lore
+
+
+##### Character Lore
+
+Name: Sir Gareth Blackwood
+
+Traits:
+1. Courageous - Sir Gareth is known for his bravery on the battlefield, never backing down from a challenge.
+2. Mysterious - There is an air of mystery surrounding Sir Gareth, as he rarely speaks of his past and always keeps his emotions in check.
+3. Loyal - He is fiercely loyal to his kingdom and will do anything to protect it.
+
+Personality Summary: Sir Gareth is a man of few words, but his actions speak louder than words. He is a skilled knight, known for his bravery and unwavering loyalty. His mysterious past has made him a bit guarded, but those who have earned his trust know him to be a kind and honorable man.
+
+Backstory: Sir Gareth's past is shrouded in mystery. He appeared at the castle gates one day, a skilled swordsman looking for a place to call home. The king was impressed by his skills and took him in, giving him a place among his
+Backstory:
+
+Sir Galen's past is shrouded in mystery. Some say he was a commoner who rose through the ranks with his exceptional skill
 
 ---
 
