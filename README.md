@@ -8,6 +8,10 @@ Users provide a prompt and a style (Realistic, Anime, or Pixel Art), and receive
 
 ## 📸 Screenshots
 
+### Web-based UI(Gradio)
+
+![Screenshot 2025-05-25 193131](https://github.com/user-attachments/assets/a7192b82-b490-49a2-8895-72012cc61e64 "Image_1")
+
 ### Sample Input and Output
 
 #### Input
@@ -18,7 +22,7 @@ Users provide a prompt and a style (Realistic, Anime, or Pixel Art), and receive
 
 ##### Character Image (Realistic Style)
 
-
+![alt text](https://github.com/kharryhsu/AI-Powered-Character-Designer/blob/main/characters/66f13ea4-d2a7-41a0-a270-4f475148871a.png "Image_2")
 
 ##### Character Lore
 
